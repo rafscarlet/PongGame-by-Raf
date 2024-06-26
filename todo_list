@@ -1,0 +1,11 @@
+TODO LIST :
+1. Create the screen
+2. Create and move the paddles (2)
+3. Create the ball and its motion
+4. Detect ball's collision with wall and bounce
+5. Detect ball's collision with paddles
+6. Detect if the paddle misses
+7. Keep the score
+
+
+
